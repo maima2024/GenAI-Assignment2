@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+runs/
+adapters_export/
+app_reports/
+*.safetensors
+*.bin
+.ipynb_checkpoints/

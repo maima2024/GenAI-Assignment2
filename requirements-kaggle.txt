@@ -1,0 +1,6 @@
+# Kaggle/Colab already ship torch, numpy, pandas, scikit-learn, matplotlib; pin the HF stack only.
+transformers==4.57.1
+peft==0.17.1
+accelerate==1.10.1
+datasets>=2.19
+gradio>=4.44,<6
